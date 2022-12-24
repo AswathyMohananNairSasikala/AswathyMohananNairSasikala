@@ -1,0 +1,63 @@
+body {
+    font-family: 'Alkalami', serif;
+    font-weight: normal;
+    font-size: 22px;
+}
+.bgcv{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnPke0UX1XDiBXpLPctcKyoIo1k7IPqmyIfbRsLuYBTabYOSszZZW-dI-4UO_pTXyqgIY&usqp=CAU");
+    background-position: center;
+}
+h1 {
+    font-size: 40px;
+    line-height: 40px;
+    font-weight: 800;
+}
+p
+ {
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 400;
+ }
+ .text-orange{
+    color: orangered;
+ }
+ .aboutur{
+    background: linear-gradient(95.11deg, rgba(82, 79, 235, 0.594) 10.79%, rgba(255, 143, 122, 0) 82.04%);
+
+ }
+ @media (min-width: 768px) {
+    h1{
+        font-size: 55px;
+        line-height: 50px;
+    }
+    p{
+       font-size: 20px;
+       line-height: 24px;
+    }
+}
+@media (min-width: 992px) {
+
+  }
+@media (min-width: 1200px) {
+    h1{
+        font-size: 75px;
+        line-height: 70px;
+    }
+    p{
+        font-size: 22px;
+        line-height: 29px;
+    }    
+}
+@media (min-width: 1600px) {
+    h1{
+        font-size: 85px;
+        line-height: 90px;
+    }
+    p{
+        font-size: 24px;
+        line-height: 32px;
+    }
+}
+@media (min-width: 1920px) {
+    
+}
